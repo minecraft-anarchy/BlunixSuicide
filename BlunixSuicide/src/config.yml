@@ -1,0 +1,10 @@
+# Time (In seconds) before players get killed after /suicide command.
+kill-time: 5
+
+suicide-messages:
+  void: '%PLAYER% jumped out of the world'
+  lightning: '%PLAYER% was flashed to death'
+  johnny: '%PLAYER% was slain by Jack Torrance'
+  killer-bunnies: '%PLAYER% was slain by &4The Killer Bunny'
+  explosion: '%PLAYER% blew up'
+  heart-attack: '%PLAYER% died after taking 5 steps'

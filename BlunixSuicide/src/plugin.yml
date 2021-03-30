@@ -1,0 +1,11 @@
+main: com.blunix.blunixsuicide.BlunixSuicide
+name: BlunixSuicide
+version: 0.1
+author: Wmorales01
+description: Adds entertaining suicide methods to the game.
+
+api-version: 1.16
+
+
+commands:
+  suicide:
